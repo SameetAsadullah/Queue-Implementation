@@ -9,4 +9,8 @@ int main() {
 	q.enqueue(5);
 	q.dequeue();
 	q.Display();
+	cout << endl;
+	q + 10;
+	-q;
+	q.Display();
 }
