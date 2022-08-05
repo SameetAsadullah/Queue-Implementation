@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Uniii\Github Repositories\Queue-Implementation\src\Queue.h(66): warning C4715: 'Queue<int>::dequeue': not all control paths return a value
+  Queue.vcxproj -> F:\Uniii\Github Repositories\Queue-Implementation\src\x64\Debug\Queue.exe
