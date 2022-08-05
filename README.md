@@ -14,5 +14,5 @@ My own `Templatized C++ Implementation` of Queue using `Microsoft Visual Studio.
 - Display()
 
 ### Operator Overloading
-- operator+ (for enqueuing)
-- operator- (for dequeuing)
+- operator+ (for `Enqueuing`)
+- operator- (for `Dequeuing`)
